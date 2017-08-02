@@ -1,0 +1,22 @@
+{
+  "name": "food_project",
+  "version": "1.0.0",
+  "description": "a restaurant recommender for BP3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kristianwang/restaurant_project.git"
+  },
+  "keywords": [
+    "recommendation"
+  ],
+  "author": "Kristian Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristianwang/restaurant_project/issues"
+  },
+  "homepage": "https://github.com/kristianwang/restaurant_project#readme"
+}
